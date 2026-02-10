@@ -1,0 +1,32 @@
+title: Joe's Coding Journey
+description: Building my way out of homelessness with AI coding agents. Documenting every step.
+url: "https://nohomedirectory.github.io"
+baseurl: ""
+
+theme: minima
+
+author:
+  name: Joe
+  email: ""
+
+social:
+  youtube: "nohomedirectory"
+  github: "nohomedirectory"
+  twitter: ""
+
+permalink: /:year/:month/:day/:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Joe"
+
+markdown: kramdown
+highlighter: rouge
