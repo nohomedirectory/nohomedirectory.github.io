@@ -49,7 +49,7 @@ Anyways, found a parking lot (I was confident they didn't tow) and sleeping in 5
 
 - Research and context-gathering IS the work right now. Mapping Jeffrey's planning methodology and figuring out how to apply it to the PDF engine is directly productive, even though no code was written.
 - The car changes the game. Mobility means optionality — different libraries, extended hours possibilities, better sleep spots.
-- Know when to stop. Two nights in a row I've hit the wall. The discipline isn't just in pushing through — it's in recognizing when more screen time is just diminishing returns and sleep is the force multiplier.
+- Know when to stop — but also know that it's absolutely important that I go balls to the wall. It absolutely must become habit to keep working after the library closes and even before it opens. The hours vary on Fridays and weekends. Two nights in a row I've hit the wall. The discipline isn't just in pushing through — it's in recognizing when more screen time is just diminishing returns and sleep is the force multiplier.
 
 ---
 

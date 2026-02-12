@@ -30,5 +30,6 @@ But this is about more than a PDF library. It's a demonstration of what one pers
 
 ## Follow Along
 
+- [X (Twitter)](https://x.com/nohomedirectory)
 - [YouTube](https://youtube.com/@nohomedirectory)
 - [GitHub](https://github.com/nohomedirectory)

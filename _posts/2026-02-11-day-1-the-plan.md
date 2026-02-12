@@ -51,6 +51,12 @@ That night it was 30 degrees and I slept out in the woods. I stuffed my pants wi
 
 ![Pants stuffed with clothes for warmth in 30-degree weather](/assets/images/day1-sleeping-in-the-cold.jpg)
 
+I was talking to Claude on my phone in the woods. I've got to say, Opus 4.6 is fantastic with planning. And man, the Claude app with the questionnaires are great.
+
+![Claude on my phone in the woods - 1](/assets/images/day1-claude-on-phone-1.jpg)
+
+![Claude on my phone in the woods - 2](/assets/images/day1-claude-on-phone-2.jpg)
+
 ## What I Learned
 
 - Mapping the problem space is real work, even when it doesn't feel like "building." Understanding what exists and what's broken is the foundation everything else sits on.
