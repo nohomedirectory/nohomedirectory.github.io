@@ -6,8 +6,8 @@ baseurl: ""
 theme: minima
 
 author:
-  name: Joe
-  email: ""
+  name: "Joe"
+  email: "josephbasilework@gmail.com"
 
 social:
   youtube: "nohomedirectory"
